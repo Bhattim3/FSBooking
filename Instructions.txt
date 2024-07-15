@@ -1,0 +1,12 @@
+To Test File Locally:
+
+    For Post man:
+    To Setup or chcek the file locally from post man simply remove the swagger code from source code and give parametrs in json at local host path post
+    http://localhost:8000/api/bookings
+
+
+    For Swagger:
+    To check the swagger documentation and test api use the path http://localhost:8000/api/bookings on your default browser
+
+
+    
