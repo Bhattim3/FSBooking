@@ -1,0 +1,26 @@
+[
+    {
+     
+        "userId": 1,
+        "pickuplocation": "lahore",
+        "dropofflocation": "lahore",
+        "vantype": "medium",
+        "deliverytime": "12/22/2024"
+    },
+    {
+        
+        "pickuplocation": "Lahore",
+        "dropofflocation": "Karachi",
+        "vantype": "Medium",
+        "deliverytime": "12/12/2024",
+        "userId": "2"
+    },
+    {
+        
+        "pickuplocation": "Lahore",
+        "dropofflocation": "Karachi",
+        "vantype": "Medium",
+        "deliverytime": "Tomorrow",
+        "userId": 3
+    }
+]
